@@ -1,3 +1,6 @@
 [submodule "Ui-Ux-Hackathon"]
 	path = Ui-Ux-Hackathon
 	url = https://github.com/username/repository-name.git
+[submodule "Project-Templt-9"]
+	path = Project-Templt-9
+	url = https://github.com/username/repository-name.git
